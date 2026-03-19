@@ -16,7 +16,7 @@ Engaged in research activities in oceanographic modelling, environmental data an
 
 ## About
 
-I am a Physics graduate with a research focus on **physical oceanography, numerical modelling, and environmental data analysis**.
+Physics graduate with a research focus on **physical oceanography, numerical modelling, and environmental data analysis**.
 
 I have experience in the implementation and validation of the **CROCO ocean model**, including hydrodynamic simulations, atmospheric and river forcing, execution in HPC environments, and statistical validation using satellite datasets.
 
