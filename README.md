@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=120&section=header"/>
 </p>
 
-# Rosa María Cárdenas Rodríguez
+# Rosa María Cardenas Rodriguez
 
 <p align="center">
   <i>Physical Oceanography • Numerical Modelling • Climate Systems</i>
